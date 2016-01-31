@@ -8,7 +8,7 @@
 ### -[多项式加法的链表实现（C语言）](http://blog.csdn.net/kids412kelly/article/details/49493981)
 ### -[区别树的三种深度遍历方法](http://blog.csdn.net/kids412kelly/article/details/49851133)
 
-## 数据库
+## 数据库基础
 ### -[Relational Algebra 关系代数](http://blog.csdn.net/kids412kelly/article/details/48953205)
 ### -[Relational Calculus 关系演算](http://blog.csdn.net/kids412kelly/article/details/49132015)
 
