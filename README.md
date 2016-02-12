@@ -1,5 +1,8 @@
 # Blog
-内容较多，请使用 Ctrl + F
+
+###我的豆瓣豆列：
+-[程序员 Web 安全之路](http://www.douban.com/doulist/43126355/)
+欢迎关注！
 
 # 目录
 
