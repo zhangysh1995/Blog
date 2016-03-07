@@ -6,6 +6,9 @@
 
 # 目录
 
+## 计算机组成
+### -[笔记（一）](/ComputerOrganization/Chapter_1.md)
+
 ## 数据结构和算法
 
 ### -[多项式加法的链表实现（C语言）](http://blog.csdn.net/kids412kelly/article/details/49493981)
