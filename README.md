@@ -8,6 +8,7 @@
 
 ## 计算机组成
 ### -[笔记（一）](/ComputerOrganization/Chapter_1.md)
+### -[练习题 Exercise](/ComputerOrganization/Exercise)
 
 ## 数据结构和算法
 
