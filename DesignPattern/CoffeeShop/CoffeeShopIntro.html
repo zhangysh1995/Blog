@@ -1,0 +1,55 @@
+
+<!-- saved from url=(0060)http://vega.cs.kent.edu/~mikhail/classes/cs3/Labs/lab25.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"></head><body><h1>Decorator Observer Chain of Responsibility Coffee Shack</h1><h1>
+</h1><h2>Lab Assignment</h2>
+
+The project is due in one week: by the midnight on the day of the next
+lab. Make sure to include your name in comments of the source
+files.
+<p>
+</p><ul>
+<li>A "Coffee Shack" serves coffee to its customers that is composed of
+the base coffee: large ($3.00), medium ($2.00) or small ($1.00) and
+added ingredients: sprinkles ($.50), caramel ($.20), milk foam ($.40),
+ice ($0.10). The ingredients can be added in any order and
+multiple times. Here is an example dialog for the order (customer's
+input is in bold):
+<p>
+</p><ul>
+<samp>Welcome to Coffee Shack, can I get you [l]arge, [m]edium, or [s]mall coffee? <b>m</b><br>
+Would you like to add [s]prinkles, [c]aramel, milk [f]oam, [i]ce or [n]ot? <b>s</b><br>
+Would you like to add [s]prinkles, [c]aramel, milk [f]oam, [i]ce or [n]ot? <b>f</b><br>
+Would you like to add [s]prinkles, [c]aramel, milk [f]oam, [i]ce or [n]ot? <b>f</b><br>
+Would you like to add [s]prinkles, [c]aramel, milk [f]oam, [i]ce or [n]ot? <b>n</b><br>
+Can I get your name? <b>Alex</b><br>
+<p>
+Alex, your medium coffee with sprinkles, foam, foam is ready. It will be $3.30, please.
+
+</p></samp></ul>
+Code the service of "Coffee Shack" program using Decorator Design Pattern. 
+Use header file(drink.h)</a> to define your base class.
+<p>
+</p></li><li>Extend your program as follows. In "Coffee Shack", the barista
+takes the customers' order and then prepares their drunks. The barista
+may serve her customers concurrently. Once the drink is ready, the
+customers are notified. Specifically, after taking an order, the
+barista randomly either notifies all customers that of one the drinks
+is ready, the drinks may not necessarily be prepared in the FIFO
+order, or starts taking a new order.  Code the service of "Coffee
+Shack" using Observer Design Pattern. <samp>Customer</samp> objects
+should be registering with <samp>Barista</samp> object and being
+notified when a drink is ready. All customers could be notified at
+once. Then, each customer should determine if it is her drink.
+<p>
+</p></li><li>Extend our <samp>Barista</samp> class so that it contains three
+different experience
+levels: <samp>JuniorBarista</samp>, <samp>SeniorBarista</samp>, <samp>Manager</samp>. Junior
+Barista may only prepare drinks with no added ingredients. Senior
+Barista may handle all added ingredients except for milk foam. Manager
+may handle all ingredients. Implement your barista class using Chain
+of Responsibility design pattern. In your dialog make sure to print,
+which experience level barista is preparing the order.
+</li></ul>
+
+
+</body></html>
