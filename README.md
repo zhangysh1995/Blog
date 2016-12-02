@@ -6,13 +6,20 @@
 
 # 目录
 
-## 操作系统
+## 操作系统（Operating System）
 
 * 进程
   * [Scheduling Algorithm](/OperatingSystem/Process/Scheduling)
-  * [State Design Pattern](/OperatingSystem/Process/StatePattern)
+  * [Process Life Cycle](/OperatingSystem/Process/StatePattern)
 * 多线程
   * [Easy implementation](/OperatingSystem/Thread)
+
+## 编程范式（Design Pattern）
+
+* [Coffee shop](/DesignPattern/CoffeeShop)
+  * Uses: Decorator, Observer, Chain of Responsibility
+* [State Design Pattern](/OperatingSystem/Process/StatePattern)
+  * Uses: State
 
 ## 计算机组成
 
@@ -24,7 +31,7 @@
 *  [多项式加法的链表实现（C语言）](http://blog.csdn.net/kids412kelly/article/details/49493981)
 *  [区别树的三种深度遍历方法](http://blog.csdn.net/kids412kelly/article/details/49851133)
 *  [二叉搜索树的基本实现](http://www.cjjjs.cn/paper/rjjc/201622232211108.aspx)
-  * [完整代码](/DataStructures/BinarySearchTree.c) 
+   * [完整代码](/DataStructures/BinarySearchTree.c) 
 
 ## 数据库基础
 * [Relational Algebra 关系代数](http://blog.csdn.net/kids412kelly/article/details/48953205)
