@@ -1,0 +1,33 @@
+Revision History:
+Date			Version		Comment
+10/14/2016		1.0		new
+
+
+# Parking System Process
+## Guiding
+### In to the bay
+### Get off car
+
+## Collecting
+### Car info
+### Driver License Scan
+
+## Payment I-Verification
+### Membership
+### Verification 
+### Print Receipt
+
+## Parking
+### Adjust position
+### Find spot
+### Move to spot
+
+## Retrieving 
+### Read Receipt
+### Move car to bay (Potentially High Risk)
+### Payment II
+### Open bay door
+
+## Ending
+### Confirm car moved out
+### Close door

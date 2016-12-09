@@ -1,0 +1,31 @@
+Revision History:
+Date			Version		Comment
+10/26/2016		1.0			new
+
+System gives optimal parking solution and parks the car automatically to destination parking spot. This process is available to view on mobile device if the User has a membership. Send a notice to User if parking is finished.
+
+## Level
+*  Sub-function
+
+## Primary Actor
+…
+
+## Stakeholders and Interests
+* User
+
+## Preconditions
+* us03 completed
+
+## Success Guarantee
+Vehicle is moved to the destination spot.
+
+
+## Special Requirements
+* PAPS sub-system(see Data Dictionary and Supplementary Specification for details)
+* Real-time tracking system
+
+## Frequency of occurrence
+*  In each parking process
+
+## Miscellaneous
+* Improve algorithms efficiency

@@ -1,0 +1,6 @@
+
+Existing parking systems(lots) require users/drivers to park the car by themselves, and they may be difficult for new drivers to park. In this automatic parking system, vehicles are moved to their optimal parking spots using Puzzle APS. Because software part of the system could give the best solution for parking, it is possible to save space by moving cars vertically and horizontally than old-way of driving car around which is also time consuming. 
+
+In the help of the Puzzle APS system, users don't have to remember parking spots in mind to retrieve their cars. After users request to retrieve their cars on the self-serving machine on spot or on smartphone application, they could directly get their car in destined bay within where cars could be driven away. 
+
+Users could choose to join membership program. Members are given coupons and have member card which could be used conveniently for parking and payment. They also could have real-time tracking of cars on mobile device.

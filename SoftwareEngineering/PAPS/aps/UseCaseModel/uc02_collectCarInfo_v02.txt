@@ -1,0 +1,45 @@
+Revision History:
+Date			Version		Comment
+10/26/2016		1.0		new
+11/14/2016		2.0		fully dressed
+
+
+## Level
+*  Sub-function
+
+## Primary Actor
+*  User
+
+## Stakeholders and Interests
+*  Bureau of Motor Vehicles(BMV)
+  -  Driver license validation
+  -  Vehicle registration status
+
+## Preconditions
+* us01 completed
+
+## Success Guarantee
+*  All informations of the car are verified to be true
+*  Guide System store them.
+
+## Main Success Scenario
+1 User interacts with display to start enter information
+2 Collect car info
+3 Collect driver license info
+3 Validation of these information are confirmed by referring to BMV
+4 Move to use case-verifyPaymentMethod
+
+## Extensions
+* If any information are not successfully verified, Users are asked to retry again.
+* Verification failure is limited to three times. After the third time, User should go to operator for help. Further information should be included in business rules.
+
+## Special Requirements
+*  Authentication from local BMV
+*  Interactive screen display
+
+## Frequency of occurrence
+*  At start point of each parking process
+
+## Miscellaneous
+*  How to read in car identification?
+*  How to contact with BMV on corporation? 

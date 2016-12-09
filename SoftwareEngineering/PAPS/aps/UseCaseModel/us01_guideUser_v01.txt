@@ -1,0 +1,49 @@
+Revision History:
+Date			Version		Comment
+10/25/2016		1.0			new
+
+## Level
+*  Sub-function
+
+## Primary Actor
+*  User
+
+## Stakeholders and Interests
+*  …
+
+## Preconditions
+*  At least one bay is available
+   -  which is empty without any operations in progress
+
+## Success Guarantee
+*  Car is fit to the bay space
+*  Car is in the restricted area of bay
+*  No person is in the car
+
+## Main Success Scenario
+1 One User drives a car into the parking area
+2 User follows the instruction sign to one empty bay
+3 User adjusts car position according to Guide System
+4 User gets off the car and locks car door
+5 Guide System confirms car is empty and is in restricted area
+5 Move to use case-collectCarInfo
+
+## Extensions
+*  If any Guide System failure occurs in this scenario, it has to restart immediately and gives User clear instruction.
+*  Guide System should remind User to lock the car before move to next use case.
+
+## Special Requirements
+*  External Systems-detector, sensor, voice generator
+*  Interactive  screen display
+
+## Technology and Data Variations List
+...
+
+## Frequency of occurrence
+*  At start point of each parking process
+
+## Miscellaneous
+*  How to inform system on bay is busy?
+*  How to ensure only one user could operate on one bay?
+*  How to detect car is in right position and is empty?
+	

@@ -1,0 +1,42 @@
+Revision History:
+Date			Version		Comment
+10/26/2016		1.0		new
+11/14/2016		2.0		fully dressed
+
+Kiosk System
+
+## Level
+*  Sub-function
+
+## Primary Actor
+*  User
+
+## Stakeholders and Interests
+
+## Preconditions
+* us02 completed
+
+## Success Guarantee
+1 User’s membership is confirmed.
+2 User’s payment method is verified and authorized.
+
+## Main Success Scenario
+1 Ask User if he/she is of membership
+2 If yes, ask User to scan Member Card, membership is verified; jump to 5
+3 If not, ask User to use payment method to verify, to 4
+4 Ask User to insert and verify; to 5
+5 Print receipt
+6 Close bay door
+7 Move to use case-autoParkCar
+
+## Special Requirements
+*  Transaction machine
+*  Bank agency
+*  Card reader
+
+## Frequency of occurrence
+*  At start point of each parking process
+
+## Miscellaneous
+*  How to link with bank system?
+*  How to deal with system failure?

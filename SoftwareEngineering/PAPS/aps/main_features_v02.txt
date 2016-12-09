@@ -1,0 +1,39 @@
+Revision History:
+Date			Version		Comment
+10/14/2016		1.0		new
+11/14/2016		2.0 		add PAPS, modify existing systems
+
+
+# User guidance
+## Sign (not part of software)
+## Sound
+## Display
+
+# Information collection
+## Measurement
+## Scan diver license
+## Collect car info
+
+# Payment system-Kiosk
+## Membership recognition
+## Payment method
+  * Card
+  * Balance (member only)
+
+# PAPS(Puzzle Automated Parking System)
+## Which could generate optimal parking solutions for individual car 
+   in-bay and automatically move the vehicle to destination.
+
+# Realtime tracking system - see Adjunct part
+
+
+# Adjunct I-Mobile application (for members)
+## Vehicle Status track (moving, parking time, position, information)
+## Payment 
+## Account 
+	*  member (real-time safety alert)
+## Parking info
+	*  spots available, price
+	*  near system location
+# Adjunct II
+...  

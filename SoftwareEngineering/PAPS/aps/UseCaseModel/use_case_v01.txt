@@ -1,0 +1,1 @@
+Revision History:Date			Version		Comment10/15/2016		1.0			new10/23/2016		1.1			merge use case with low granularityUse case List (by appearance order)# Parking System## guideUser	FULLY DRESSED## collectCarInfo## verifyPaymentMethod## autoParkCar## retrieveCar

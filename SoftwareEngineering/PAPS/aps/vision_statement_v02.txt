@@ -1,0 +1,13 @@
+Revision History:
+Date			Version		Comment
+10/12/2016		  1.0		 first version
+10/15/2016		  1.1 		 move others to business_case.txt
+12/08/2-16		  2.0		 update, add new contents
+	
+
+This project aims to simulate a software based on a space-saving, automatic and commercial parking system. Which could satisfy high throughput of parking demand in city area. 
+
+For current running parking systems, large space is needed for putting cars which also cost drivers time to find suitable spot for parking. This new parking system is constructed as cubic area which saves space and uses Puzzle Automatic Parking System(PAPS) 
+to relive drivers from parking car and by themselves. 
+
+Users could receive guidance to park from our interactive guidance system. They could also  make payment through different methods available. This system is also established with high technology, which grants users with safety for their cars. 

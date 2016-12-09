@@ -1,0 +1,46 @@
+Revision History:
+Date			Version		Comment
+10/26/2016		1.0			new
+11/16/2016		2.0		fully dressed
+
+
+## Level
+*  Sub-function
+
+## Primary Actor
+*  User
+
+## Stakeholders and Interests
+
+## Preconditions
+* us04 completed
+
+## Success Guarantee
+* Parking fee is paid by User
+* User’s vehicle is moved out of bay
+* This bay which is used by User is empty
+
+## Main Success Scenario
+1 User requests to retrieve car
+2 System identifies User and start retrieve vehicle
+3 Vehicle is moved to one bay according to PAPS
+4 Payment is processed
+5 Bay door is open
+6 User drives away vehicle
+7 Bay door is closed
+
+## Extensions
+* User with membership could request in phone app
+* Mechanical failure(not considered in software): report failure immediately
+
+## Special Requirements
+* PAPS sub-system to retrieve car
+* Transaction processing system
+* Real-time tracking system
+
+## Frequency of occurrence
+*  At end point of each parking process
+
+## Miscellaneous
+* Improved efficiency
+* How to track status of the vehicle at real time?
