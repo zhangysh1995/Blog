@@ -27,7 +27,7 @@
 
 ## iOS 开发（iOS Development）
 
-* [Snake Game](/iOS_Development/SakeGame)
+* [Snake Game](/iOS_Development/SnakeGame)
 
 ## 计算机组成
 
