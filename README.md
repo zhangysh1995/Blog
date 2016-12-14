@@ -21,6 +21,14 @@
 * [State Design Pattern](/OperatingSystem/Process/StatePattern)
   * Uses: State
 
+## 软件工程（Software Engineering）
+
+* [PAPS](/SoftwareEngineering/PAPS)
+
+## iOS 开发（iOS Development）
+
+* [Snake Game](/iOS_Development/SakeGame)
+
 ## 计算机组成
 
 * [笔记（一）](/ComputerOrganization/Chapter_1.md)
@@ -40,8 +48,6 @@
 ## 前端
 * [在 Mac 安装 Grunt](/Front-End/installGruntOnMac.md)
 * [读书笔记：*《HTML5与CSS3基础教程（第八版）》* ](/Front-End/htmlcss-vqs8/README.md)
-
-## 服务器
 
 
 ## Web 安全
