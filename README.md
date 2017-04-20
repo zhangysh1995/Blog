@@ -1,6 +1,8 @@
 # Blog
-
-###我的豆瓣豆列：
+这里主要存放了我做过的一些项目和一些技术文章，更多内容见以下链接：
+### 我的 CSDN 博客
+-[章鱼烧的博客](http://blog.csdn.net/kids412kelly/article/list/2)
+### 我的豆瓣豆列：
 -[程序员 Web 安全之路](http://www.douban.com/doulist/43126355/)
 欢迎关注！
 
